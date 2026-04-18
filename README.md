@@ -90,13 +90,4 @@ PS C:\> whoami
 
 ---
 
-## 📈 Experience Snapshot
-
-- Managed **20,000+ enterprise endpoints**  
-- Migrated **1,300+ systems to Windows 11 in under 2 weeks**  
-- Managed **1,500+ Active Directory accounts**  
-- Improved system performance with automation (30% login time reduction)  
-
----
-
 <div align="center">
