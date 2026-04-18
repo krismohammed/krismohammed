@@ -1,7 +1,7 @@
 # Hi, I'm Kris 👋
 💻 Windows Systems Engineer |🚀 USAF Veteran | 🔐 Security-Focused | ⚙️ Automation-Driven
 
-I’m a Windows Systems Engineer with experience supporting large-scale DoD and government environments. I focus on building reliable, secure, and automated systems across Windows infrastructure.Most of my work centers around endpoint management, Active Directory, and PowerShell-driven automation to improve efficiency, security, and scalability.
+I’m a Windows Systems Engineer with experience supporting large-scale DoD and government environments. I focus on building reliable, secure, and automated systems across Windows infrastructure. Most of my work centers around endpoint management, Active Directory, and PowerShell-driven automation to improve efficiency, security, and scalability.
 
 ---
 
@@ -27,13 +27,13 @@ I’m a Windows Systems Engineer with experience supporting large-scale DoD and 
 
 ---
 
-## 📌 Featured Projects <Under Construction>
+## 📌 Featured Projects *Under Construction
 - 🔐 **AD User Lifecycle Automation**  
   PowerShell-based onboarding/offboarding with RBAC, logging, and consistency checks  
 
 ---
 
-## 📈 Experience Snapshot <Under Construction>
+## 📈 Experience Snapshot *Under Construction
 - Managed **20,000+ endpoints** in enterprise environments  
 
 ---
