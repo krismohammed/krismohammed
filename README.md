@@ -27,13 +27,13 @@ I’m a Windows Systems Engineer with experience supporting large-scale DoD and 
 
 ---
 
-## 📌 Featured Projects *Under Construction
+## 📌 Featured Projects
 - 🔐 **AD User Lifecycle Automation**  
   PowerShell-based onboarding/offboarding with RBAC, logging, and consistency checks  
 
 ---
 
-## 📈 Experience Snapshot *Under Construction
+## 📈 Experience Snapshot
 - Managed **20,000+ endpoints** in enterprise environments  
 
 ---
